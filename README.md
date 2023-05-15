@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![My Skills](https://skills.thijs.gg/icons?i=js,java,c,cs,py,html,jquery,css,postgres,kotlin,mysql,markdown,php)
 
 ## Frameworks and tools I have worked with before:
-![My Skills](https://skills.thijs.gg/icons?i=androidstudio,gradle,maven,spring,git)
+![My Skills](https://skills.thijs.gg/icons?i=gradle,maven,spring,git)
 
 
 
