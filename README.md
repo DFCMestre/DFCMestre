@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 -->
 
 ## Languages I have worked with before:
-![My Skills](https://skills.thijs.gg/icons?i=js,java,c,cs,py,html,css,postgres,kotlin,markdown,php)
-
+![My Skills](https://skills.thijs.gg/icons?i=js,java,c,cs,py,html,jquery,css,postgres,kotlin,mysql,markdown,php)
+,gradle,maven,
 ## Frameworks and tools I have worked with before:
-![My Skills](https://skills.thijs.gg/icons?i=spring,git)
+![My Skills](https://skills.thijs.gg/icons?i=androidstudio,gradle,maven,spring,git)
 
 
 
