@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 ## Frameworks and tools I have worked with before:
 ![My Skills](https://skills.thijs.gg/icons?i=gradle,maven,spring,git)
 
+![](https://komarev.com/ghpvc/?username=DFCMestre&color=red&style=flat&label=PROFILE+VIEWS)
+
 
 
