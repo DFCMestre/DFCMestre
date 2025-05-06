@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DFCMestre&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## Languages I have worked with before:
-![My Skills](https://skills.thijs.gg/icons?i=js,java,c,cs,py,html,jquery,css,postgres,kotlin,mysql,markdown,php)
+## Languages I have worked with before
+![Languages](https://skills.thijs.gg/icons?i=js,java,c,cs,py,html,jquery,css,postgres,kotlin,mysql,markdown,php)
 
-## Frameworks and tools I have worked with before:
-![My Skills](https://skills.thijs.gg/icons?i=gradle,maven,spring,git)
+## Frameworks and tools I have worked with before
+![Frameworks](https://skills.thijs.gg/icons?i=gradle,maven,spring,git)
 
 ![](https://komarev.com/ghpvc/?username=DFCMestre&color=red&style=flat&label=PROFILE+VIEWS)
 
